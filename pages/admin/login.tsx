@@ -29,4 +29,3 @@ export default function AdminLoginPage() {
     </main>
   );
 }
-🧱 Файл 7: pages/admin/exper
