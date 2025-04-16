@@ -1,17 +1,5 @@
-ChatGPT сказал:
-💼 КАБИНЕТ ПОКУПАТЕЛЯ ЗАЛЕТАЕТ!
-
-🧱 Файл 5: pages/customer-cabinet.tsx
-Путь:
-osmotreno-pro/pages/customer-cabinet.tsx
-
-Код:
-
-tsx
-Копировать
-Редактировать
 import { useEffect, useState } from "react";
-import { generatePDF } from "@/utils/pdfGenerator";
+import { generatePDF } from "../utils/pdfGenerator";
 
 export default function CustomerCabinet() {
   const [purchases, setPurchases] = useState<any[]>([]);
