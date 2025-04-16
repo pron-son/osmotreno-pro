@@ -37,7 +37,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Отзывы */}
+      {/* Отзывы (заглушка) */}
       <section className="bg-white py-12 px-6">
         <h2 className="text-2xl font-bold text-center mb-8">Отзывы клиентов</h2>
         <div className="grid sm:grid-cols-2 gap-6 max-w-4xl mx-auto">
@@ -52,7 +52,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* CTA */}
+      {/* CTA Section */}
       <section className="bg-blue-50 py-12 text-center">
         <h2 className="text-2xl font-bold mb-4">Готовы присоединиться?</h2>
         <p className="mb-6">Покупайте или размещайте отчёты — вместе делаем рынок прозрачным!</p>
