@@ -1,0 +1,23 @@
+{
+    "experts": [
+      { "name": "Игорь", "city": "Москва", "badge": "pro", "rating": 4.9 },
+      { "name": "Анна", "city": "Питер", "badge": "verified", "rating": 4.7 }
+    ],
+    "reports": [
+      {
+        "id": "r1",
+        "brandModel": "Kia Rio",
+        "year": 2019,
+        "mileage": 43000,
+        "city": "Москва",
+        "bodyType": "седан",
+        "color": "белый",
+        "bodyCondition": "отличное",
+        "interiorCondition": "чистый",
+        "recommendations": "брать",
+        "expert": "Игорь",
+        "video": ""
+      }
+    ]
+  }
+  
